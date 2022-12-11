@@ -1,5 +1,12 @@
+#include "lib.h"
 #include <iostream>
+using namespace std;
 
-int main(){
-  return 0;
+int main() {
+    int a=0;
+    cin >> a;
+    cout << max(a);
+
+
+    return 0;
 }
