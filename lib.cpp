@@ -1,5 +1,5 @@
-#include "lib.h"
 #include <iostream>
+#include "lib.h"
 using namespace std;
 
 float maxarray(int a) {
