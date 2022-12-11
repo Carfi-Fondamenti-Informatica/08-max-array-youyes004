@@ -1,6 +1,3 @@
-//
-// Created by Yousef El Sayed on 11/12/2022.
-//
 #include "lib.h"
 #include <iostream>
 using namespace std;
