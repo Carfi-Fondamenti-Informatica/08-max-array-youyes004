@@ -5,4 +5,5 @@
 #ifndef ESERCITAZIONE_8_LIB_H
 #define ESERCITAZIONE_8_LIB_H
 float maxarray(int a);
+
 #endif //ESERCITAZIONE_8_LIB_H
