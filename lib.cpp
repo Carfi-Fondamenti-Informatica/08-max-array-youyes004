@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-float max(int a) {
+float maxarray(int a) {
     float numeri [a];
     float b= numeri [0];
     for (int k=0; k<a ; k++)
